@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-- OpenGL Boilerplate to life easier to create new openGL project
+- OpenGL Boilerplate to make life easier to create new openGL project
 - With GLFW window set up and a imgui docking window
 - The boilerplate is self contained, no additional setup is required
 
